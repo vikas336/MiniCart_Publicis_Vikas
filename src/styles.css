@@ -1,0 +1,107 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  height: 70px;
+  width: 100%;
+  background-color: rgb(221, 216, 216);
+}
+.headerList {
+  height: 70px;
+  float: right;
+  display: flex;
+  width: 150px;
+  text-align: left;
+}
+
+.itemText {
+  width: 100px;
+  align-self: center;
+}
+
+.cartImage {
+  height: 40px;
+  width: 40px;
+  align-self: center;
+}
+
+.product {
+  margin-top: 5px;
+  height: 70px;
+  width: 95%;
+  background-color: rgb(221, 216, 216);
+  margin-left: 23px;
+}
+
+.productList {
+  height: 70px;
+  display: flex;
+
+  text-align: left;
+}
+
+.productListCart {
+  height: 70px;
+  display: flex;
+  background-color: lightblue;
+  text-align: left;
+}
+
+.productText {
+  margin-left: 10px;
+  align-self: center;
+}
+
+.productImage {
+  height: 40px;
+  width: 40px;
+  margin-left: 12px;
+  align-self: center;
+}
+
+.quanity-group {
+  align-self: center;
+  margin-left: auto;
+  width: 180px;
+}
+
+.quanity-groupCart {
+  align-self: center;
+  margin-left: auto;
+  width: 100px;
+}
+
+.input-quanity {
+  width: 25px;
+}
+
+.plus-buttons {
+}
+
+.del-buttons {
+  border: none;
+  background-color: lightblue;
+
+  margin-left: 12px;
+}
+
+.cart-buttons {
+  border: none;
+  background-color: gainsboro;
+}
+.iconClass {
+  margin-left: 5px;
+}
+
+.priceClass {
+  margin-right: 15px;
+  float: right;
+}
+
+.descClass {
+  font-size: xx-small;
+  display: block;
+  width: 150px;
+  word-wrap: break-word;
+}
