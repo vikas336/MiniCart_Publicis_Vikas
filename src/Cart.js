@@ -28,7 +28,7 @@ export default function Cart(props) {
     <div>
       {itemList.map((item) =>
         item.quantity != 0 ? (
-          <div className="product">
+          <div className="productCart">
             <div className="productListCart">
               <button
                 className="del-buttons"

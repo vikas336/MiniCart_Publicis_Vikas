@@ -34,6 +34,14 @@
   margin-left: 23px;
 }
 
+.productCart {
+  margin-top: 0px;
+  height: 70px;
+  width: 95%;
+  background-color: rgb(221, 216, 216);
+  margin-left: 23px;
+}
+
 .productList {
   height: 70px;
   display: flex;
@@ -104,4 +112,15 @@
   display: block;
   width: 150px;
   word-wrap: break-word;
+}
+
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+
+  border-bottom: 15px solid lightblue;
+  margin-right: 60px;
+  margin-left: auto;
 }

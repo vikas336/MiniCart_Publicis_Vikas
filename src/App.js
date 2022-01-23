@@ -1,5 +1,5 @@
 import "./styles.css";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Product from "./Product";
 import Cart from "./Cart";
@@ -47,6 +47,9 @@ export default function App() {
     });
     setTotalItem(a);
     setTotalPrice(p);
+    if (flag && a == 0) {
+      setFlag(!flag);
+    }
   }
 
   function cartOpen() {
@@ -79,7 +82,10 @@ export default function App() {
       {!flag ? (
         <Product data={product} handleFunc={handleUpdate} />
       ) : (
-        <Cart data={product} handleFunc={handleUpdate} />
+        <React.Fragment>
+          <div className="arrow-up"></div>
+          <Cart data={product} handleFunc={handleUpdate} />
+        </React.Fragment>
       )}
     </div>
   );
