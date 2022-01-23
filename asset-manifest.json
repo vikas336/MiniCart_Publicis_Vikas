@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MiniCart_Publicis_Vikas/static/css/main.e3d8854d.chunk.css",
+    "main.js": "/MiniCart_Publicis_Vikas/static/js/main.1549d2d0.chunk.js",
+    "main.js.map": "/MiniCart_Publicis_Vikas/static/js/main.1549d2d0.chunk.js.map",
+    "runtime-main.js": "/MiniCart_Publicis_Vikas/static/js/runtime-main.95dc4bfa.js",
+    "runtime-main.js.map": "/MiniCart_Publicis_Vikas/static/js/runtime-main.95dc4bfa.js.map",
+    "static/js/2.1cdc4117.chunk.js": "/MiniCart_Publicis_Vikas/static/js/2.1cdc4117.chunk.js",
+    "static/js/2.1cdc4117.chunk.js.map": "/MiniCart_Publicis_Vikas/static/js/2.1cdc4117.chunk.js.map",
+    "index.html": "/MiniCart_Publicis_Vikas/index.html",
+    "static/css/main.e3d8854d.chunk.css.map": "/MiniCart_Publicis_Vikas/static/css/main.e3d8854d.chunk.css.map",
+    "static/js/2.1cdc4117.chunk.js.LICENSE.txt": "/MiniCart_Publicis_Vikas/static/js/2.1cdc4117.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95dc4bfa.js",
+    "static/js/2.1cdc4117.chunk.js",
+    "static/css/main.e3d8854d.chunk.css",
+    "static/js/main.1549d2d0.chunk.js"
+  ]
+}
