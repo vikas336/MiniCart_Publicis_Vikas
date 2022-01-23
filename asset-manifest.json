@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MiniCart_Publicis_Vikas/static/css/main.496f01c1.chunk.css",
-    "main.js": "/MiniCart_Publicis_Vikas/static/js/main.adfd3e86.chunk.js",
-    "main.js.map": "/MiniCart_Publicis_Vikas/static/js/main.adfd3e86.chunk.js.map",
+    "main.js": "/MiniCart_Publicis_Vikas/static/js/main.3078b720.chunk.js",
+    "main.js.map": "/MiniCart_Publicis_Vikas/static/js/main.3078b720.chunk.js.map",
     "runtime-main.js": "/MiniCart_Publicis_Vikas/static/js/runtime-main.95dc4bfa.js",
     "runtime-main.js.map": "/MiniCart_Publicis_Vikas/static/js/runtime-main.95dc4bfa.js.map",
     "static/js/2.1cdc4117.chunk.js": "/MiniCart_Publicis_Vikas/static/js/2.1cdc4117.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.95dc4bfa.js",
     "static/js/2.1cdc4117.chunk.js",
     "static/css/main.496f01c1.chunk.css",
-    "static/js/main.adfd3e86.chunk.js"
+    "static/js/main.3078b720.chunk.js"
   ]
 }
