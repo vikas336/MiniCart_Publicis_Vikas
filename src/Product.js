@@ -60,14 +60,14 @@ export default function Product(props) {
                 disabled={item.quantity == 0}
                 onClick={() => decreaseItem(item.id)}
               >
-                <i class="fa fa-minus"></i>
+                <i className="fa fa-minus"></i>
               </button>
               <input disabled className="input-quanity" value={item.quantity} />
               <button
                 className="plus-buttons"
                 onClick={() => increaseItem(item.id)}
               >
-                <i class="fa fa-plus"></i>
+                <i className="fa fa-plus"></i>
               </button>
 
               <span className="priceClass">
